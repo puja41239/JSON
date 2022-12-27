@@ -1,0 +1,21 @@
+[{
+	"Name": "Puja",
+	"Class": 10,
+	"Address": "Hyderabad"
+}, {
+	"Name": "Ashish",
+	"Class": 10,
+	"Address": "Jamshedpur"
+}, {
+	"Name": "Ankush",
+	"Class": 10,
+	"Address": "Tata"
+}, {
+	"Name": "Anand",
+	"Class": 10,
+	"Address": "West Bengal"
+}, {
+	"Name": "Priya",
+	"Class": 10,
+	"Address": "Kolkata"
+}]
